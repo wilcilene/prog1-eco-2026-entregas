@@ -1,9 +1,9 @@
 # Produto Final
 
-Esta pasta reunira o codigo integrado de todas as equipes ao final do semestre.
+Esta pasta reunirá o código integrado de todas as equipes ao final.
 
-## Integracao
+## Integração
 
-A integracao sera feita pela professora em conjunto com os lideres de cada equipe na ultima semana do semestre.
+A integração será feita em conjunto com os líderes de cada equipe depois de tudo concluído.
 
-> Nao adicione arquivos aqui diretamente. Aguarde as instrucoes da professora para a etapa de integracao.
+> Não adicione arquivos aqui!! Aguarde as instruções para a etapa de integração.
