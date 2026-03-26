@@ -18,7 +18,7 @@ projetos/
 
 - Cada equipe deve trabalhar **apenas na sua pasta** (`equipes/equipe-XX/`).
 - Cada pasta de equipe deve ter um `README.md` com: integrantes, descrição da parte do sistema, instruções de uso e plano de integração.
-- A integração final será feita pela professora junto com as equipes ao final do semestre em `produto-final/`.
+- A integração final será feita junto com as equipes ao final do semestre em `produto-final/`.
 
 ## Padrão de commit para o projeto
 
