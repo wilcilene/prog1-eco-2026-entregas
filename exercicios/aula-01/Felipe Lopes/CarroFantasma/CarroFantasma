@@ -1,0 +1,18 @@
+package carrofantasma;
+
+public class CarroFantasma {
+
+    String modelo;
+    boolean ligado;
+    boolean fantasma;
+
+    void ligar() {
+        ligado = true;
+
+        if (fantasma) {
+            System.out.println("Carro fantasma apareceu do nada!");
+        } else {
+            System.out.println("Carro ligado.");
+        }
+    }
+}
